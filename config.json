@@ -1,0 +1,6 @@
+{
+    "name" : "Your mod name",
+    "description" : "Your mod's description",
+    "keyNumbers" : [4, 6],
+    "dependencies" : ["Friday Night Funkin'", "Yoshi Engine"]
+}

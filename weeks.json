@@ -1,0 +1,18 @@
+{
+    "weeks" : [
+        {
+            "name" : "Your Week",
+            "songs" : ["Test"],
+            "buttonSprite" : "images/test-week.png",
+            "color" : "#A4E6FF",
+            "dad" :
+            {
+                "file" : "images/menu-characters",
+                "animation" : "Your Character",
+                "scale" : 0.5,
+                "flipX" : false,
+                "offset" : [120,200]
+            }
+        }
+    ]
+}

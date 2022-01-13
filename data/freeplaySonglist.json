@@ -1,0 +1,10 @@
+{
+    "songs" : [
+        {
+            "name" : "Test",
+            "char" : "unknown",
+            "color" : "#FFFFFF",
+            "difficulties" : ["Normal"]
+        }
+    ]
+}
