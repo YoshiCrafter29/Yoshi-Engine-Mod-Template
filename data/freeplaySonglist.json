@@ -4,7 +4,8 @@
             "name" : "Test",
             "char" : "unknown",
             "color" : "#FFFFFF",
-            "difficulties" : ["Normal"]
+            "difficulties" : ["Normal"],
+            "bpm" : 97
         }
     ]
 }
